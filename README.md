@@ -1,1 +1,1 @@
-# ICT311_MyCovidTracker
+# Starting code for ICT311 MyCovidTracker
